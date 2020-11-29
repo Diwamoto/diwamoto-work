@@ -169,7 +169,7 @@ Configure::write('Config.language', 'jpn');
 	// >>>
 	//Configure::write('Routing.prefixes', array('admin'));
 	// ---
-	Configure::write('Routing.prefixes', array('admin'));
+	Configure::write('Routing.prefixes', array('cmsadmin'));
 	// <<<
 
 /**
